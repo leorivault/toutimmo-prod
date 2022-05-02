@@ -1,0 +1,3 @@
+[submodule "toutimmo"]
+	path = toutimmo
+	url = https://github.com/leorivault/toutimmo.git
